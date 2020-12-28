@@ -29,7 +29,7 @@ The goals / steps of this project are the following:
 [image10]: ./Report/image_05.png
 ---
 
-This is the project writup and the link to the github repository is [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb).
+This is the project writup and the link to the github repository is [project code](https://github.com/sbonab/CarND-Traffic-Sign-Classifier).
 
 ### Data Set Summary & Exploration
 
